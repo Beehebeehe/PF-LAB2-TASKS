@@ -1,0 +1,20 @@
+2.	PSEUDOCODE
+9.	PRINT Result
+•	Task 03
+Q. Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+1.	START
+2.	\\Initialising  Variables
+3.	SET Result TO 0 
+4.	\\Output
+5.	PRINT “Enter three inputs in order number, number, operation (eg: 2 2 +)”
+6.	\\Input
+7.	INPUT num1
+8.	INPUT num2
+9.	INPUT operation
+10.	\\Conditional Statements And Process Statement 
+11.	IF operation = + THEN 
+12.	SET Result TO num1 + num2
+13.	 IF operation = - THEN
+14.	 SET Result TO num1 - num2
+15.	PRINT Result
+16.	END 

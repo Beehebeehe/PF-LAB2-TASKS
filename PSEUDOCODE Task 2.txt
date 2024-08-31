@@ -1,0 +1,12 @@
+2.	PSEUDOCODE
+•	Task 02
+Q. Take three variables as input and add them without using the + operator
+1.	START
+2.	\\Input variables
+3.	INPUT num1
+4.	INPUT num2
+5.	INPUT num3 
+6.	\\Process Statement 
+7.	SET Result TO (num1)-(-num2)-(-num3)
+8.	\\Output
+9.	PRINT Result

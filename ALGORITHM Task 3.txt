@@ -1,0 +1,11 @@
+•	ALGORITHM
+••	Task 03
+Q. Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+1.	Ask user to enter first number 
+2.	Ask user to enter second number
+3.	Ask use to enter the operation to perform on the numbers
+4.	Check which operation has been entered by comparing them to all the operators one by one (+,-,*,/,%)
+5.	When a match is found perform that operation on the two numbers 
+6.	Set the answer to the variable Result 
+7.	Display the Result to the user 
+
