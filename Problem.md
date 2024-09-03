@@ -1,0 +1,12 @@
+Q. Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a
+divisor of 6). If so, determine if it’s an even number or odd number as well.
+1. Ask user to input the number n
+2. Ask user to enter the divisor Nth
+3. Divide n by Nth
+4. Set the variable Result to the remainder
+5. Check if Result is equal to 0
+6. If yes then display (Nth”is a divisor of ”n) to the user
+7. If no then display (Nth”is not a divisor of ”n) to the user
+8. Now divide Nth by 2 and set variable Check to its Remainder
+9. If Check is equal to 0, display (Nth is Even) to the user
+10. If Check is not equal to 0, display (Nth is Odd) to the user
