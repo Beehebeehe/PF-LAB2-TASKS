@@ -4,3 +4,4 @@
  * Now im trying to get a better understanding of C Language in the university
 # Best of luck me 
 
+![Screenshot 2024-09-03 215639](https://github.com/user-attachments/assets/ae4f96d6-a5e4-41b9-81f7-d397eb3bcae3)
