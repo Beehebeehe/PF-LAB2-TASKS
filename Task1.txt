@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+   int num,remainder;
+   printf("Enter your number\n :");
+   scanf("%d",num);
+   remainder = num%3
+   if(remainder ==0 ){
+    printf("This number is multiple of 3")
+   }else{
+    printf("This number is not multiple of 3)
+   }
+   return 0;
+}
